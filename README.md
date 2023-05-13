@@ -1,6 +1,7 @@
 # This is a zomato landing page clone
 
-Zomato-landing-page-10722
-aditya12gusain
+Zomato-landing-page
+
+Shashank Yadav
 
 This is a new SETUP Branch
